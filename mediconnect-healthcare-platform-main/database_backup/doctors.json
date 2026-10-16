@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "6aa98f6cafdbf9bda854128a",
+    "user": "6aa98f6bafdbf9bda8541288",
+    "specialization": "Diagnostic Medicine",
+    "qualification": "MD, Nephrology and Infectious Diseases",
+    "experience": 25,
+    "hospital": "Princeton-Plainsboro Teaching Hospital",
+    "bio": "Everybody lies. But I can figure out what's wrong with you.",
+    "consultationFee": 1000,
+    "availability": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "isBooked": false,
+            "_id": "6aa98f6cafdbf9bda854128b"
+          },
+          {
+            "startTime": "14:00",
+            "endTime": "18:00",
+            "isBooked": false,
+            "_id": "6aa98f6cafdbf9bda854128c"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "startTime": "09:00",
+            "endTime": "12:00",
+            "isBooked": false,
+            "_id": "6aa98f6cafdbf9bda854128d"
+          }
+        ]
+      }
+    ],
+    "isVerified": true,
+    "createdAt": "2026-09-15T18:33:16.253Z",
+    "updatedAt": "2026-09-15T18:33:16.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98f6cafdbf9bda8541291",
+    "user": "6aa98f6cafdbf9bda854128f",
+    "specialization": "General Surgery",
+    "qualification": "MD, FACS",
+    "experience": 15,
+    "hospital": "Grey Sloan Memorial Hospital",
+    "bio": "Head of General Surgery with extensive experience in trauma.",
+    "consultationFee": 800,
+    "availability": [
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "startTime": "10:00",
+            "endTime": "14:00",
+            "isBooked": false,
+            "_id": "6aa98f6cafdbf9bda8541292"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "startTime": "10:00",
+            "endTime": "14:00",
+            "isBooked": false,
+            "_id": "6aa98f6cafdbf9bda8541293"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "startTime": "08:00",
+            "endTime": "12:00",
+            "isBooked": false,
+            "_id": "6aa98f6cafdbf9bda8541294"
+          }
+        ]
+      }
+    ],
+    "isVerified": true,
+    "createdAt": "2026-09-15T18:33:16.800Z",
+    "updatedAt": "2026-09-15T18:33:16.800Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98f6dafdbf9bda8541298",
+    "user": "6aa98f6cafdbf9bda8541296",
+    "specialization": "General Practitioner",
+    "qualification": "MBBS, MD",
+    "experience": 10,
+    "hospital": "Barts Hospital",
+    "bio": "Former army doctor, currently in private practice.",
+    "consultationFee": 500,
+    "availability": [],
+    "isVerified": false,
+    "createdAt": "2026-09-15T18:33:17.302Z",
+    "updatedAt": "2026-09-15T18:33:17.302Z",
+    "__v": 0
+  }
+]

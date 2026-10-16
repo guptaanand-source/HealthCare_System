@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "6aa98f6dafdbf9bda854129c",
+    "user": "6aa98f6dafdbf9bda854129a",
+    "dateOfBirth": null,
+    "gender": "prefer-not-to-say",
+    "bloodGroup": "O+",
+    "allergies": [
+      "Penicillin"
+    ],
+    "chronicConditions": [
+      "Asthma"
+    ],
+    "createdAt": "2026-09-15T18:33:17.944Z",
+    "updatedAt": "2026-09-15T18:33:17.944Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98ff16b4af5c84022c77a",
+    "user": "6aa98ff06b4af5c84022c778",
+    "dateOfBirth": null,
+    "gender": "prefer-not-to-say",
+    "bloodGroup": "unknown",
+    "allergies": [],
+    "chronicConditions": [],
+    "createdAt": "2026-09-15T18:35:29.323Z",
+    "updatedAt": "2026-09-15T18:35:29.323Z",
+    "__v": 0
+  }
+]

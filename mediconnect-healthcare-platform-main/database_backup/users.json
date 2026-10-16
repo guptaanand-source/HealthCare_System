@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "6aa98f6bafdbf9bda8541280",
+    "name": "System Admin",
+    "email": "admin@mediconnect.com",
+    "role": "admin",
+    "avatar": null,
+    "isActive": true,
+    "createdAt": "2026-09-15T18:33:15.244Z",
+    "updatedAt": "2026-09-15T18:33:15.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98f6bafdbf9bda8541288",
+    "name": "Dr. Gregory House",
+    "email": "house@mediconnect.com",
+    "role": "doctor",
+    "phone": "9876543210",
+    "avatar": null,
+    "isActive": true,
+    "createdAt": "2026-09-15T18:33:15.728Z",
+    "updatedAt": "2026-09-15T18:33:15.728Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98f6cafdbf9bda854128f",
+    "name": "Dr. Meredith Grey",
+    "email": "grey@mediconnect.com",
+    "role": "doctor",
+    "phone": "9876543211",
+    "avatar": null,
+    "isActive": true,
+    "createdAt": "2026-09-15T18:33:16.257Z",
+    "updatedAt": "2026-09-15T18:33:16.257Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98f6cafdbf9bda8541296",
+    "name": "Dr. John Watson",
+    "email": "watson@mediconnect.com",
+    "role": "doctor",
+    "phone": "9876543212",
+    "avatar": null,
+    "isActive": true,
+    "createdAt": "2026-09-15T18:33:16.803Z",
+    "updatedAt": "2026-09-15T18:33:16.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98f6dafdbf9bda854129a",
+    "name": "John Doe",
+    "email": "patient@mediconnect.com",
+    "role": "patient",
+    "phone": "5551234567",
+    "avatar": null,
+    "isActive": true,
+    "createdAt": "2026-09-15T18:33:17.304Z",
+    "updatedAt": "2026-09-15T18:33:17.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "6aa98ff06b4af5c84022c778",
+    "name": "DEV",
+    "email": "dev@gmail.com",
+    "role": "patient",
+    "phone": "65655659562",
+    "avatar": null,
+    "isActive": true,
+    "createdAt": "2026-09-15T18:35:28.574Z",
+    "updatedAt": "2026-09-15T18:35:28.574Z",
+    "__v": 0
+  }
+]
